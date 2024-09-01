@@ -20,13 +20,13 @@
 - **Introduction 介绍**
 ```txt
 <p><br></p>
-<fieldset style="font-family: Consolas,sans-serif;"><legend><span style="color: white; background-color: black;">&nbsp;简介&nbsp;</span></legend></fieldset>
+<fieldset style="font-family: Consolas,sans-serif;"><legend><span style="color: white; background-color: black;">&nbsp;简介&nbsp;</span></legend>简介内容</fieldset>
 ```
 
 - **MediaInfo 媒体信息**
 ```txt
 <p><br></p>
-<fieldset style="font-family: Consolas,sans-serif;"><legend><span style="color: white; background-color: black;">&nbsp;简介&nbsp;</span></legend></fieldset>
+<fieldset style="font-family: Consolas,sans-serif;"><legend><span style="color: white; background-color: black;">&nbsp;MediaInfo&nbsp;</span></legend>媒体信息内容</fieldset>
 ```
 
 - **Photos 截图**
