@@ -17,7 +17,7 @@
 <fieldset style="font-family: Consolas,sans-serif;"><legend><span style="color: white; background-color: black;">&nbsp;海报&nbsp;</span></legend><img src="图片链接"></fieldset>
 ```
 
-- **Introduction 介绍**
+- **Info 简介**
 ```txt
 <p><br></p>
 <fieldset style="font-family: Consolas,sans-serif;"><legend><span style="color: white; background-color: black;">&nbsp;简介&nbsp;</span></legend>简介内容</fieldset>
