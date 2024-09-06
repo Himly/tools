@@ -29,7 +29,7 @@
 <fieldset style="font-family: Consolas,sans-serif;"><legend><span style="color: white; background-color: black;">&nbsp;MediaInfo&nbsp;</span></legend>媒体信息内容</fieldset>
 ```
 
-- **Photos 截图**
+- **Screens 截图**
 ```txt
 <p><br></p>
 <fieldset style="font-family: Consolas,sans-serif;"><legend><span style="color: white; background-color: black;">&nbsp;截图&nbsp;</span></legend><img src="图片1链接"><br><img src="图片2链接"><br><img src="图片3链接"></fieldset>
